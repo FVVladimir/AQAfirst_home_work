@@ -1,4 +1,5 @@
 New file was created
 vim is amazin
 therd row 
-
+edit this file
+add two rows
